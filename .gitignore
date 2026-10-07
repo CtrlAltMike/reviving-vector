@@ -1,0 +1,14 @@
+.DS_Store
+.claude/
+
+# Live Wire-Pod configuration and robot identity/state
+wire-pod/chipper/apiConfig.json
+wire-pod/chipper/jdocs/botSdkInfo.json
+wire-pod/chipper/jdocs/jdocs.json
+wire-pod/chipper/source.sh
+wire-pod/certs/
+wire-pod/chipper/session-certs/
+
+# Reproducible build/cache output
+wire-pod/whisper.cpp/build_go/
+wire-pod/vector-cloud/packagesGotten
